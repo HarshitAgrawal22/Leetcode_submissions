@@ -31,9 +31,9 @@ class Solution {
                 list.add(root.val);      
                 System.out.println(root.val);          
             }
-
+        else{
         inOrder(root.left,list);
         inOrder(root.right,list);
-
+        }
     }
 }
