@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
