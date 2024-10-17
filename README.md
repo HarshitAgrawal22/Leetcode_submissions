@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Queue
 |  |
 | ------- |
