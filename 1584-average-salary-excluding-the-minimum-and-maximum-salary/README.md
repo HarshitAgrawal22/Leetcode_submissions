@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary">1584. Average Salary Excluding the Minimum and Maximum Salary</a></h2><h3>Easy</h3><hr><p>You are given an array of <strong>unique</strong> integers <code>salary</code> where <code>salary[i]</code> is the salary of the <code>i<sup>th</sup></code> employee.</p>
+<h2><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary">Average Salary Excluding the Minimum and Maximum Salary</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of <strong>unique</strong> integers <code>salary</code> where <code>salary[i]</code> is the salary of the <code>i<sup>th</sup></code> employee.</p>
 
 <p>Return <em>the average salary of employees excluding the minimum and maximum salary</em>. Answers within <code>10<sup>-5</sup></code> of the actual answer will be accepted.</p>
 
