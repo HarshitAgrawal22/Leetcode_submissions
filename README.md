@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Two Pointers
 |  |
