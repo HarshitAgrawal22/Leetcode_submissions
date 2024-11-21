@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
+| [0198-house-robber](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0198-house-robber) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
