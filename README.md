@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0198-house-robber) |
 ## Tree
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0783-search-in-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
