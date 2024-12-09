@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-sort-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Queue
