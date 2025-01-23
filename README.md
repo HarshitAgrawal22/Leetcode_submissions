@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
+| [0680-valid-palindrome-ii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
