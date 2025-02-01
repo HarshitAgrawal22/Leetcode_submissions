@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0198-house-robber) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0102-binary-tree-level-order-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
