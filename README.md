@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
