@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Queue
