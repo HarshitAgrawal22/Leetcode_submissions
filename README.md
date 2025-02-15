@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [3782-find-valid-emails](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
