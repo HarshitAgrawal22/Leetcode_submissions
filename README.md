@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Recursion
 |  |
 | ------- |
