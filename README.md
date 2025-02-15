@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
