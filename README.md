@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0739-daily-temperatures](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0948-sort-an-array) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0036-valid-sudoku) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
