@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
