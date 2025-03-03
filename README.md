@@ -125,14 +125,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0043-multiply-strings) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgrawal22/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
