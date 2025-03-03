@@ -13,7 +13,7 @@ class Solution {
         if(lists.length == 0 ){
             return null;
         }
-        PriorityQueue<Integer> pq= new PriorityQueue<>();
+        PriorityQueue<Integer> pq= new PriorityQueue<>(Collections.reverseOrder());
         for(int i = 0 ;i< lists.length;i++){
             ListNode ptr = lists[i];
             while(ptr!= null){
@@ -39,11 +39,8 @@ class Solution {
         }
         else{
             ListNode temp = new ListNode(val);
-            ListNode ptr = head;
-            while(ptr.next!= null){
-                ptr = ptr.next;
-            }
-            ptr.next = temp;
+            temp.next = head ;
+            head = temp;
             return head;
         }
     }
